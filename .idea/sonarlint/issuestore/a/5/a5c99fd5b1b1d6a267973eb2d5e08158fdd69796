@@ -1,0 +1,30 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¿¢Úıÿÿÿÿ8§­Îö0
+^
+java:S2184("BCast one of the operands of this division operation to a "double".(Ø»Ç48’§­Îö0
+W
+java:S3518(";Make sure "count" can't be zero before doing this division.(Ø»Ç48™¨­Îö0
+V
+java:S2864:"4Iterate over the "entrySet" instead of the "keySet".(¼¼Ûíùÿÿÿÿ8¦¨­Îö0
+V
+java:S2864E"4Iterate over the "entrySet" instead of the "keySet".(€Æ·ÿÿÿÿÿ8¨¨­Îö0
+V
+java:S2864Q"4Iterate over the "entrySet" instead of the "keySet".(€Æ·ÿÿÿÿÿ8ª¨­Îö0
+Q
+java:S2864Z"4Iterate over the "entrySet" instead of the "keySet".(›‹´ä8­¨­Îö0
+V
+java:S2864]"4Iterate over the "entrySet" instead of the "keySet".(¥Ãóçøÿÿÿÿ8­¨­Îö0
+Z	java:S106g"9Replace this use of System.out or System.err by a logger.(”ôïƒÿÿÿÿÿ8ÌÔ«Ïö0
+]	java:S125n"<This block of commented-out lines of code should be removed.(¬ˆ‘¾şÿÿÿÿ8²¨­Îö0
+^
+java:S1128"<Remove this unused import 'edu.stanford.nlp.ling.CoreLabel'.(€Õ¿­ûÿÿÿÿ8²¨­Îö0
+e
+java:S1128"CRemove this unused import 'edu.stanford.nlp.pipeline.CoreDocument'.(Ÿ¸Å€ıÿÿÿÿ8´¨­Îö0
+h
+java:S1128"FRemove this unused import 'edu.stanford.nlp.pipeline.StanfordCoreNLP'.(ñÂœ¸ûÿÿÿÿ8´¨­Îö0
+P
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8´¨­Îö0
+Q
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ8´¨­Îö0
+R
+java:S1128	"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8´¨­Îö0

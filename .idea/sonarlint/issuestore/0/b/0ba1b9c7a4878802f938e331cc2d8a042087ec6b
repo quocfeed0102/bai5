@@ -1,0 +1,9 @@
+
+{
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(¬òÜ®ıÿÿÿÿ8­İüÏö0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ô¸­úøÿÿÿÿ8¸İüÏö0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥Ïï«8¸İüÏö0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(üÕåÄ8¹İüÏö0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ßáÌşÿÿÿÿ8¹İüÏö0
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ÎÂÇ•8…‚şÏö0
